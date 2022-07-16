@@ -146,7 +146,7 @@ margin-bottom: 200px;
     color: #26BBA4;
     cursor: pointer;
 }
-@media(max-width:600px){
+@media(max-width:770px){
     .firstdiv{
         background-image: url("../images/bg-header-mobile.png");
         background-repeat: no-repeat;
