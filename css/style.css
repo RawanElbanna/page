@@ -185,4 +185,8 @@ margin-bottom: 200px;
     .footerlinks img{
         width: 20%;
     }
+    .footerlinks a{
+        display:inline-block;
+      padding-bottom: 20px;
+    }
 }
